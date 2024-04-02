@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Anran Li(李安然)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Li Anran"
+  name             : "Anran Li"
   pronouns         : # example: "she/her"  
   bio              : "Magical Drug Delivery Field"
   location         : "China"
-  employer         : "Red Brick University"
+  employer         : "China Pharmaceutical University"
   uri              : # URL
   email            : "anranli@stu.cpu.edu.cn" 
 
